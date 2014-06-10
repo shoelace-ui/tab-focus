@@ -6,7 +6,7 @@
 ## Usage
 
 ```stylus
-@require 'tab-focus'
+@require 'shoelace-ui-tab-focus'
 
 .btn
   tab-focus()

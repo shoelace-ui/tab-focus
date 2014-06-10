@@ -1,9 +1,9 @@
 {
-    "name" : "tab-focus",
+    "name" : "shoelace-ui-tab-focus",
     "version" : "0.1.0",
     "description" : "Webkit-style focus",
     "repository" : "https://github.com/shoelace-ui/tab-focus.git",
-    "keywords" : ["webkit","focus","tab"],
+    "keywords" : ["webkit", "focus", "tab"],
     "author" : "Michael Andrew Vanasse <mail@mndvns.com>",
     "license" : "MIT"
 }
